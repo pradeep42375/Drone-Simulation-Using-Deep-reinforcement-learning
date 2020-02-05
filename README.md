@@ -17,4 +17,4 @@ Click here for a demo video:
 
 This repository wants to be translated to a modular and accessible open-source framework
 
-For additional information contact: guillemeetac@gmail.com
+For additional information contact: pradeepchandra4237aravind@gmail.com
